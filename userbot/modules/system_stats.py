@@ -201,7 +201,7 @@ async def amireallyalive(alive):
              f"`𝘪 𝙘𝙖𝙣'𝙩 Ðïê \n"
              f"`Always with you, my master ! \n"
              f"`Mera sab kuch my owner :- LTRCAT ❤️ \n"
-             f"`YouTube - LTRCAT Gaming ❤️ \n"
+             f"`YouTube - LTRCAT Gaming ❤️🥂 \n"
              f"==================================== \n"
              f"User 👨‍🚀: {DEFAULTUSER} \n"
              f"Maintainer 🏄‍♂️: @heyworld \n"
