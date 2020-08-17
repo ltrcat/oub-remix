@@ -25,7 +25,8 @@ from userbot import (COUNT_PM, CMD_HELP, BOTLOG, BOTLOG_CHATID, PM_AUTO_BAN,
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
-UNAPPROVED_MSG = "𝐇𝐞𝐲𝐲 𝐭𝐡𝐞𝐫𝐞! 𝐈 𝐚𝐦 LTRCAT'𝐬 𝐮𝐬𝐞𝐫𝐛𝐨𝐭. \n"
+UNAPPROVED_MSG = 
+    "𝐇𝐞𝐲𝐲 𝐭𝐡𝐞𝐫𝐞! 𝐈 𝐚𝐦 LTRCAT'𝐬 𝐮𝐬𝐞𝐫𝐛𝐨𝐭. \n"
     "𝐃𝐨𝐧'𝐭 𝐡𝐞𝐬𝐢𝐭𝐚𝐭𝐞. 𝐓𝐡𝐢𝐬 𝐢𝐬 𝐚𝐧 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐞𝐝 𝐦𝐞𝐬𝐚𝐚𝐠𝐞. \n"
     "𝐌𝐲 𝐦𝐚𝐬𝐭𝐞𝐫 𝐡𝐚𝐯𝐞𝐧'𝐭 𝐚𝐩𝐩𝐫𝐨𝐯𝐞𝐝 𝐲𝐨𝐮 𝐭𝐨 𝐏𝐌 𝐲𝐞𝐭. \n"
     "𝐏𝐥𝐞𝐚𝐬𝐞 𝐰𝐚𝐢𝐭 𝐟𝐨𝐫 𝐦𝐲 𝐦𝐚𝐬𝐭𝐞𝐫 𝐭𝐨 𝐥𝐨𝐨𝐤 𝐢𝐧, 𝐇𝐞 𝐦𝐨𝐬𝐭𝐥𝐲 𝐚𝐩𝐩𝐫𝐨𝐯𝐞 𝐏𝐌𝐬 𝐮𝐧𝐥𝐞𝐬𝐬 𝐲𝐨𝐮 𝐚𝐫𝐞 𝐫𝐞𝐭𝐚𝐫𝐝𝐞𝐝. \n"
